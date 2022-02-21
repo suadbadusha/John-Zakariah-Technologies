@@ -1074,5 +1074,11 @@ html {
     width: 100%;
     color: #000;
   }
+  .copyright{
+			display: flex;
+			flex-direction: row;
+			justify-content: center;
+			
+		}
 }
 /*# sourceMappingURL=style.css.map */
